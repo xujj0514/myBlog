@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.xujj.BlogApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.372 sec - in com.xujj.BlogApplicationTests

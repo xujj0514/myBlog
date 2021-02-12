@@ -1,0 +1,8 @@
+2020-12-25 20:04:51.807  INFO 16416 --- [main] com.xujj.BlogApplicationTests            : Starting BlogApplicationTests on LAPTOP-N69OAB3G with PID 16416 (started by xujianjian in D:\IdeaProjects\blog1\blog)
+2020-12-25 20:04:51.823  INFO 16416 --- [main] com.xujj.BlogApplicationTests            : The following profiles are active: pro
+2020-12-25 20:04:51.807  INFO 3844 --- [main] com.xujj.BlogApplicationTests            : Starting BlogApplicationTests on LAPTOP-N69OAB3G with PID 3844 (started by xujianjian in D:\IdeaProjects\blog1\blog)
+2020-12-25 20:04:51.853  INFO 3844 --- [main] com.xujj.BlogApplicationTests            : The following profiles are active: pro
+2020-12-25 20:05:14.672  INFO 3844 --- [main] com.xujj.BlogApplicationTests            : Started BlogApplicationTests in 23.897 seconds (JVM running for 25.423)
+2020-12-25 20:05:14.712  INFO 16416 --- [main] com.xujj.BlogApplicationTests            : Started BlogApplicationTests in 23.979 seconds (JVM running for 25.471)
+2020-12-25 20:10:40.663  INFO 6880 --- [restartedMain] com.xujj.BlogApplication                 : Starting BlogApplication on LAPTOP-N69OAB3G with PID 6880 (D:\IdeaProjects\blog1\blog\target\classes started by xujianjian in D:\IdeaProjects\blog1\blog)
+2020-12-25 20:10:40.663  INFO 6880 --- [restartedMain] com.xujj.BlogApplication                 : The following profiles are active: pro
